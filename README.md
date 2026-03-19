@@ -65,6 +65,7 @@ I'm a BS in Computer Science graduate from Florida International University's Ho
 - Advanced Prompt Engineering Techniques
 - Intro to Accelerated Computing with CUDA Python
 - Introduction to AI in Crime Detection and Analysis
+- Data Engineering Bootcamp
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/jernaibennett)
