@@ -1,7 +1,7 @@
 # Hi there, I'm Jernai Bennett 👋
 
 ## 🎓 About Me
-I'm a BS in Computer Science graduate from Florida International University's Honors College (Magna Cum Laude, December 2025) and incoming Master's student in Data Science & AI (Spring 2026).
+I'm a MS in Data Science and AI student and a Computer Science graduate from Florida International University's Honors College (Magna Cum Laude, December 2025).
 
 ## 💼 Professional Experience
 **Systems Software Intern @ NVIDIA Corporation** (Summer 2024)
