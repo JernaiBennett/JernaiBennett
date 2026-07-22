@@ -11,6 +11,18 @@ I'm a MS in Data Science and AI student and a Computer Science graduate from Flo
 
 ## 🚀 Featured Projects
 
+### 🎥 YouTube ELT Pipeline | Automated Video Analytics Warehouse
+*Data Engineering | Apache Airflow • Docker • PostgreSQL • Soda Core*
+- Built end-to-end ELT pipeline extracting video metadata via YouTube Data API v3, orchestrated across three chained Airflow DAGs
+- Designed two-layer Postgres warehouse (staging → core) with incremental upsert/delete sync logic and automated Shorts vs. Normal video classification
+- Implemented CI/CD pipeline with GitHub Actions running unit, integration, and end-to-end DAG tests before Docker image deployment
+
+### 🏗️ Sales Data Warehouse | End-to-End Analytics Engineering
+*Data Engineering | SQL Server • dbt • Snowflake • T-SQL*
+- Built two-phase data warehouse consolidating ERP and CRM sales data into a star schema, first with SQL Server medallion architecture, then modernized with dbt and Snowflake
+- Engineered 9 dbt models with 20 automated schema tests, incremental loading, and auto-generated lineage documentation across 60,000+ sales records
+- Implemented Snowflake Streams and Tasks for change data capture, triggering incremental model runs on new source data
+
 ### 🐾 Panther Social | Full-Stack Social Platform
 *Product Owner & Lead Developer | React • Node.js • MongoDB • Express*
 - Leading development of campus social platform for 50,000+ FIU students and 500+ organizations
@@ -54,11 +66,11 @@ I'm a MS in Data Science and AI student and a Computer Science graduate from Flo
 - Optimized model performance reducing training time by 30% through unsupervised learning
 
 ## 🛠️ Technical Skills
-**Languages:** Java • Python • JavaScript • TypeScript • C++ • SQL • HTML/CSS • Bash  
-**Frameworks & Tools:** React • Node.js • Flask • Streamlit • Git • Docker • RESTful APIs  
-**Cloud & Data:** AWS • Google Cloud Platform • Azure • BigQuery • MongoDB • MySQL  
+**Languages:** Java • Python • JavaScript • TypeScript • R • SQL • HTML/CSS • Bash  
+**Frameworks & Tools:** React • Node.js • Flask • Streamlit • Git • Docker • Kubernetes • RESTful APIs •Terraform
+**Cloud & Data:** AWS • Google Cloud Platform • Azure • BigQuery • MongoDB • MySQL • Snowflake • Apache Spark • Apache Airflow
 **ML/AI:** TensorFlow • Keras • CUDA • Pandas • NumPy • Scikit-learn  
-**Specializations:** Data Engineering • ETL Pipelines • API Development • Agile/Scrum
+**Specializations:** •Automation •Data Engineering • ETL Pipelines • API Development • Agile/Scrum
 
 ## 🏆 Certifications
 - Introduction to Generative AI with AWS
@@ -66,6 +78,8 @@ I'm a MS in Data Science and AI student and a Computer Science graduate from Flo
 - Intro to Accelerated Computing with CUDA Python
 - Introduction to AI in Crime Detection and Analysis
 - Data Engineering Bootcamp
+- Google Cloud Data Engineer Professional (in progress)
+- AWS Data Engineer Associate (in progress)
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/jernaibennett)
@@ -73,4 +87,4 @@ I'm a MS in Data Science and AI student and a Computer Science graduate from Flo
 - 🌐 Check out my repositories below to see my work in action!
 
 ---
-*Currently exploring: Cloud Data Engineering, Big Data with Spark, and advancing my expertise in AI/ML systems*
+*Currently exploring: Cloud Data Engineering, Big Data with Spark, and earning Cloud Certifications.*
