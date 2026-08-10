@@ -78,7 +78,7 @@ I'm a MS in Data Science and AI student and a Computer Science graduate from Flo
 - Intro to Accelerated Computing with CUDA Python
 - Introduction to AI in Crime Detection and Analysis
 - Data Engineering Bootcamp
-- Google Cloud Data Engineer Professional (in progress)
+- AZ-700 (in progress)
 - AWS Data Engineer Associate (in progress)
 
 ## 📫 Let's Connect!
